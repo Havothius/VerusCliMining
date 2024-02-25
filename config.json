@@ -19,7 +19,7 @@
 	"user": "RSA8iUJ2Z24Qdzw4Kpg8eKWn2b9MhGZUQX.Nokia_C100",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
