@@ -2,21 +2,21 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+        	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	}
 	],
-	"user": "RSA8iUJ2Z24Qdzw4Kpg8eKWn2b9MhGZUQX.Galaxy_A03s_3",
+	"user": "RSA8iUJ2Z24Qdzw4Kpg8eKWn2b9MhGZUQX.Galaxy_A03s_4",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
