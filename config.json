@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RSA8iUJ2Z24Qdzw4Kpg8eKWn2b9MhGZUQX.Medivh_Galaxy_A03s_3",
+	"user": "RSA8iUJ2Z24Qdzw4Kpg8eKWn2b9MhGZUQX.Thrall_Nokia_C100_1",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
